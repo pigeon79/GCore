@@ -1,0 +1,9 @@
+D:\Project\G.Web\G.MSBuild\bin\Debug\G.MSBuild.dll
+D:\Project\G.Web\G.MSBuild\bin\Debug\G.MSBuild.pdb
+D:\Project\G.Web\G.MSBuild\obj\Debug\G.MSBuild.dll
+D:\Project\G.Web\G.MSBuild\obj\Debug\G.MSBuild.pdb
+D:\Project\G.Web\G.MSBuild\obj\Debug\G.MSBuild.csprojResolveAssemblyReference.cache
+D:\Develop\G.Web\G.MSBuild\bin\Debug\G.MSBuild.dll
+D:\Develop\G.Web\G.MSBuild\obj\Debug\G.MSBuild.csprojResolveAssemblyReference.cache
+D:\Develop\G.Web\G.MSBuild\obj\Debug\G.MSBuild.dll
+D:\Develop\G.Web\G.MSBuild\obj\Debug\G.MSBuild.pdb
